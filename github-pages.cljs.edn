@@ -1,0 +1,2 @@
+{:main      heroes.main
+ :output-to "docs/cljs-out/dev-main.js"}
