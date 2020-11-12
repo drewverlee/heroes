@@ -1,4 +1,3 @@
-^{:watch-dirs      [ "src"]
-  :final-output-to "docs/cljs-out/dev-main.js"
-  :css-dirs        ["resources/public/css"]}
+^{:watch-dirs [ "src"]
+  :css-dirs   ["resources/public/css"]}
 {:main heroes.main}
